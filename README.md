@@ -27,7 +27,7 @@ This repository showcases the end-to-end data process, from data acquisition and
 The project utilizes comprehensive transaction and customer datasets. An example of the raw data structure is shown below:
 
 ![Sample Data Overview](https://github.com/decoder2201/Credit-Card-Dashbaord/blob/main/Screenshot%202025-06-01%20212703.png)
-(https://github.com/decoder2201/Credit-Card-Dashbaord/blob/main/Screenshot%202025-06-01%20212641.png)
+![Sample Data Overview](https://github.com/decoder2201/Credit-Card-Dashbaord/blob/main/Screenshot%202025-06-01%20212641.png)
 
 
 ## SQL Query Examples
